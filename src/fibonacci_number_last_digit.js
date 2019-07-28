@@ -1,5 +1,5 @@
 /**
- * Calculates Fibonacci number last digit by serial number of Fibonacci number.
+ * Calculate Fibonacci number last digit by serial number of Fibonacci number.
  * @param {number} n
  * @returns {number}
  */
@@ -23,15 +23,11 @@ function getFibonacciNumberLastDigit(n) {
 
 /**
  * IO section.
+ * Expected input example: '35'.
  */
 process.stdin.setEncoding('utf8');
-process.stdin.addListener('data', function (data) {
-    if (data === null) {
-        return;
-    }
-
-    let n = parseInt(data);
-    let number = getFibonacciNumberLastDigit(n);
-
+process.stdin.on('data', function (data) {
+    const n = parseInt(data);
+    const number = getFibonacciNumberLastDigit(n);
     process.stdout.write(number.toString());
 });

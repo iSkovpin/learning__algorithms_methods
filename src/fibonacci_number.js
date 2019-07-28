@@ -1,5 +1,5 @@
 /**
- * Calculates Fibonacci number by its serial number.
+ * Calculate Fibonacci number by its serial number.
  * @param {number} n
  * @returns {number}
  */
@@ -23,15 +23,11 @@ function getFibonacciNumber(n) {
 
 /**
  * IO section.
+ * Expected input example: '35'.
  */
 process.stdin.setEncoding('utf8');
-process.stdin.addListener('data', function (data) {
-    if (data === null) {
-        return;
-    }
-
-    let n = parseInt(data);
-    let number = getFibonacciNumber(n);
-
+process.stdin.on('data', function (data) {
+    const n = parseInt(data);
+    const number = getFibonacciNumber(n);
     process.stdout.write(number.toString());
 });
