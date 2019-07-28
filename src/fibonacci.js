@@ -4,7 +4,9 @@
  * @returns {number}
  */
 function getFibonacciNumber(n) {
-    if (n < 3) {
+    if (n === 0) {
+        return 0;
+    } else if (n < 3) {
         return 1;
     }
 
