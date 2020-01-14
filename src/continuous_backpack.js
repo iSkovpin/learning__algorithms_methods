@@ -10,9 +10,7 @@
  * @returns {number}
  */
 function calculateMaxCost(backpackVolume, things) {
-    things.sort(function (a, b) {
-        return b[0]/b[1] - a[0]/a[1];
-    });
+    things.sort((a, b) => b[0] / b[1] - a[0] / a[1]);
 
     let cost = 0;
     let i = 0;

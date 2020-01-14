@@ -8,9 +8,7 @@
  * @returns {Array<number>} of dots
  */
 function findCoveringDots(segments) {
-    segments.sort(function (a, b) {
-        return a[1] - b[1];
-    });
+    segments.sort((a, b) => a[1] - b[1]);
 
     let dots = [];
 
