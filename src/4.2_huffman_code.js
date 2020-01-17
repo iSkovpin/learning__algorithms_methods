@@ -54,7 +54,7 @@ class BinaryTreeNode {
 }
 
 /**
- * A letter representation.
+ * Representation of a letter.
  */
 class Letter {
     /**
@@ -74,7 +74,7 @@ class Letter {
 }
 
 /**
- * The simple implementation of the priority queue.
+ * Simple implementation of the priority queue.
  */
 class PriorityQueue {
     constructor() {
@@ -127,7 +127,7 @@ class PriorityQueue {
 }
 
 /**
- * Build binary tree for Huffman code.
+ * Build binary tree for the Huffman code.
  * @param {PriorityQueue} queue of {Letter} - letters priority queue.
  * @returns {BinaryTreeNode} - root node of binary tree.
  */
@@ -157,7 +157,7 @@ function buildHuffmanTree(queue) {
 }
 
 /**
- * Make a priority queue from letters frequencies array.
+ * Make a priority queue from a letters frequencies array.
  * @param {Object} letterFrequencies - {a: 33, b: 155, c: 1, ...}
  * @returns {PriorityQueue}
  */
@@ -171,7 +171,7 @@ function getLetterPriorityQueue(letterFrequencies) {
 }
 
 /**
- * Get string encoded with Huffman's algorithm.
+ * Get a string encoded with the Huffman's algorithm.
  * @param {string} string
  * @param {Object} codes - list of letters codes {a: '001', b: '111', ...}
  * @returns {string}
@@ -188,7 +188,7 @@ function getEncodedString(string, codes) {
 }
 
 /**
- * Get letter codes based on binary tree.
+ * Get letter codes based on a binary tree.
  * @param {BinaryTreeNode} rootNode of Huffman binary tree
  * @param {Object} codes - list of letters codes {a: '001', b: '111', ...}
  * @param {string} parentCode - code of all parent nodes for recursion
