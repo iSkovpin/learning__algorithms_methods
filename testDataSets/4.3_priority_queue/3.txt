@@ -1,0 +1,12 @@
+11
+Insert 2
+Insert 3
+Insert 18
+Insert 15
+Insert 18
+Insert 12
+Insert 12
+Insert 2
+ExtractMax
+ExtractMax
+ExtractMax

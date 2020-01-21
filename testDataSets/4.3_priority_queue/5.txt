@@ -1,0 +1,4489 @@
+100000
+Insert 199069293
+Insert 110876841
+ExtractMax
+Insert 734810299
+Insert 382214681
+Insert 899375537
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 496671032
+Insert 163686663
+ExtractMax
+Insert 718196205
+ExtractMax
+Insert 241621273
+Insert 718423609
+Insert 117290038
+Insert 960302941
+Insert 388340138
+ExtractMax
+Insert 881583481
+ExtractMax
+Insert 611761427
+Insert 537980583
+ExtractMax
+Insert 56947563
+Insert 346551449
+ExtractMax
+Insert 719817419
+Insert 806580093
+ExtractMax
+ExtractMax
+Insert 371589037
+ExtractMax
+Insert 261630329
+ExtractMax
+Insert 117186219
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 249482388
+Insert 564349571
+ExtractMax
+Insert 939238879
+Insert 899263689
+ExtractMax
+ExtractMax
+Insert 17721769
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 12851915
+ExtractMax
+Insert 525384862
+Insert 580440887
+ExtractMax
+Insert 936971591
+Insert 422320566
+ExtractMax
+Insert 405383725
+ExtractMax
+Insert 784357579
+Insert 610113295
+Insert 868114366
+Insert 414636103
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 759017495
+ExtractMax
+Insert 664912831
+Insert 6696321
+Insert 939562599
+ExtractMax
+ExtractMax
+Insert 320119613
+ExtractMax
+ExtractMax
+Insert 448790856
+ExtractMax
+Insert 982903207
+ExtractMax
+Insert 670214890
+Insert 159395959
+ExtractMax
+Insert 867383875
+ExtractMax
+ExtractMax
+Insert 677542766
+Insert 3060778
+Insert 351154387
+Insert 474720249
+Insert 772017733
+ExtractMax
+Insert 337820188
+ExtractMax
+ExtractMax
+Insert 735330955
+Insert 174282974
+Insert 556890066
+Insert 272377383
+Insert 365814399
+Insert 804263981
+Insert 661216035
+Insert 285659340
+Insert 79583164
+ExtractMax
+Insert 59442646
+Insert 807952216
+Insert 350933952
+Insert 171695168
+Insert 295599815
+Insert 334544345
+Insert 33173065
+Insert 44552221
+ExtractMax
+Insert 576931645
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 754453681
+ExtractMax
+Insert 790077495
+ExtractMax
+Insert 95518607
+Insert 787326568
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 89568227
+ExtractMax
+ExtractMax
+Insert 541887557
+ExtractMax
+Insert 183863679
+Insert 417882283
+Insert 597177585
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 987443000
+ExtractMax
+Insert 588267127
+ExtractMax
+Insert 558444106
+Insert 316372969
+ExtractMax
+Insert 967848627
+ExtractMax
+Insert 43169951
+Insert 126808973
+ExtractMax
+ExtractMax
+Insert 927486489
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 636917182
+ExtractMax
+Insert 865704470
+Insert 311138364
+Insert 706216877
+Insert 84366569
+ExtractMax
+ExtractMax
+Insert 758053900
+ExtractMax
+Insert 310617099
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 542473344
+ExtractMax
+ExtractMax
+Insert 143808119
+Insert 346479816
+Insert 501305764
+Insert 218253452
+ExtractMax
+ExtractMax
+Insert 33475871
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 779559332
+Insert 62810298
+ExtractMax
+ExtractMax
+Insert 144604992
+Insert 589735903
+ExtractMax
+Insert 729147632
+Insert 593781663
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 606708379
+Insert 620540400
+Insert 233566295
+Insert 963017656
+Insert 602023140
+Insert 509903514
+ExtractMax
+ExtractMax
+Insert 589182946
+ExtractMax
+ExtractMax
+Insert 847256264
+ExtractMax
+Insert 996890079
+Insert 472327300
+ExtractMax
+ExtractMax
+Insert 628796027
+ExtractMax
+Insert 146878049
+ExtractMax
+Insert 125138783
+Insert 400561025
+Insert 390724103
+ExtractMax
+Insert 288052162
+ExtractMax
+Insert 367076073
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 96651731
+Insert 235648155
+Insert 444312933
+ExtractMax
+Insert 517148817
+ExtractMax
+Insert 542053644
+ExtractMax
+ExtractMax
+Insert 120988006
+ExtractMax
+ExtractMax
+Insert 879121393
+ExtractMax
+Insert 727501963
+ExtractMax
+Insert 852735644
+Insert 738266051
+Insert 685319548
+Insert 702318689
+Insert 572415203
+Insert 355254534
+Insert 680480317
+Insert 934585660
+ExtractMax
+ExtractMax
+Insert 681495386
+ExtractMax
+Insert 797659807
+Insert 811583273
+Insert 629384856
+Insert 853776746
+ExtractMax
+Insert 278610093
+ExtractMax
+Insert 347735226
+Insert 732257229
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 343522419
+ExtractMax
+ExtractMax
+Insert 14118281
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 897331610
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 637403572
+ExtractMax
+Insert 901515784
+ExtractMax
+Insert 79748492
+ExtractMax
+Insert 597066529
+Insert 59799162
+Insert 698851776
+Insert 733540443
+ExtractMax
+Insert 931797126
+Insert 278980973
+ExtractMax
+Insert 417521791
+Insert 215144983
+Insert 921432391
+Insert 229312460
+Insert 805777205
+ExtractMax
+Insert 247054794
+Insert 512401292
+ExtractMax
+Insert 201454378
+ExtractMax
+ExtractMax
+Insert 8521480
+Insert 513456576
+ExtractMax
+Insert 754931681
+ExtractMax
+Insert 46513699
+ExtractMax
+ExtractMax
+Insert 938568919
+Insert 335672595
+Insert 191657580
+ExtractMax
+Insert 509775916
+Insert 481891963
+Insert 967297908
+Insert 123745150
+Insert 677566788
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 478945220
+ExtractMax
+Insert 798831139
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 332375675
+ExtractMax
+Insert 497753734
+ExtractMax
+ExtractMax
+Insert 960311300
+Insert 80587350
+ExtractMax
+Insert 718890372
+ExtractMax
+Insert 92334422
+ExtractMax
+Insert 936322648
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 768741611
+Insert 260315438
+Insert 179503204
+ExtractMax
+ExtractMax
+Insert 752231636
+ExtractMax
+Insert 960300136
+ExtractMax
+ExtractMax
+Insert 485462592
+ExtractMax
+Insert 800872276
+Insert 30702693
+ExtractMax
+ExtractMax
+Insert 568899390
+Insert 571045528
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 150536206
+ExtractMax
+Insert 853492622
+ExtractMax
+ExtractMax
+Insert 134510526
+ExtractMax
+Insert 841674564
+ExtractMax
+Insert 918007177
+ExtractMax
+Insert 874912751
+ExtractMax
+ExtractMax
+Insert 216451824
+ExtractMax
+ExtractMax
+Insert 502218426
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 47197017
+ExtractMax
+ExtractMax
+Insert 785557313
+Insert 503295981
+Insert 40179709
+Insert 382334893
+ExtractMax
+Insert 109272876
+Insert 441735758
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 117897222
+Insert 785807865
+ExtractMax
+ExtractMax
+Insert 723904190
+Insert 250029244
+Insert 723692148
+Insert 465937189
+ExtractMax
+ExtractMax
+Insert 605383473
+Insert 263239271
+ExtractMax
+ExtractMax
+Insert 321371521
+Insert 982237841
+Insert 991947243
+Insert 759035327
+ExtractMax
+Insert 952094958
+Insert 757966352
+Insert 812982425
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 462695271
+Insert 578587579
+Insert 579103032
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 126644184
+ExtractMax
+Insert 271351773
+ExtractMax
+Insert 153036770
+Insert 893110819
+Insert 399493853
+Insert 823096099
+Insert 702092983
+Insert 553630229
+Insert 114921536
+Insert 940801093
+ExtractMax
+Insert 788488393
+ExtractMax
+ExtractMax
+Insert 430336968
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 84855632
+Insert 193115131
+ExtractMax
+Insert 324787063
+Insert 270082915
+Insert 608375404
+ExtractMax
+Insert 69700196
+ExtractMax
+Insert 214600274
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 281031886
+Insert 60940714
+Insert 526439449
+ExtractMax
+Insert 683652405
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 653976626
+Insert 661643193
+ExtractMax
+Insert 671331777
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 594237751
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 100121283
+ExtractMax
+ExtractMax
+Insert 944810849
+Insert 889175233
+Insert 543889465
+Insert 111108762
+ExtractMax
+Insert 703209344
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 643989550
+ExtractMax
+Insert 898159501
+ExtractMax
+Insert 252171142
+Insert 733833351
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 672528125
+Insert 91154880
+Insert 979843341
+ExtractMax
+Insert 727494396
+Insert 675432955
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 248949861
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 909507204
+ExtractMax
+ExtractMax
+Insert 852489067
+Insert 116719323
+ExtractMax
+Insert 29264245
+Insert 425711201
+ExtractMax
+Insert 473351402
+Insert 532988162
+Insert 385967410
+Insert 672046556
+Insert 81003832
+Insert 85390311
+Insert 970649833
+ExtractMax
+ExtractMax
+Insert 716531211
+ExtractMax
+Insert 248929788
+Insert 950857527
+Insert 977704623
+Insert 288549323
+Insert 37977393
+ExtractMax
+Insert 533497814
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 325181000
+Insert 599352577
+Insert 616419865
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 949636199
+Insert 930579358
+Insert 734929543
+Insert 927207427
+ExtractMax
+Insert 878341371
+Insert 263507643
+ExtractMax
+ExtractMax
+Insert 474703702
+ExtractMax
+Insert 806384087
+Insert 504108372
+Insert 305353194
+Insert 19643811
+ExtractMax
+Insert 318757710
+ExtractMax
+Insert 60580972
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 711994443
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 16417004
+ExtractMax
+Insert 366594896
+Insert 927896232
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 944635982
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 990384127
+Insert 557292802
+Insert 151821349
+ExtractMax
+Insert 366862778
+Insert 935884793
+ExtractMax
+ExtractMax
+Insert 665571634
+ExtractMax
+Insert 632729930
+ExtractMax
+Insert 510761491
+Insert 478019288
+Insert 672880267
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 642327104
+ExtractMax
+ExtractMax
+Insert 20168805
+Insert 191727280
+ExtractMax
+Insert 600615873
+Insert 61455334
+Insert 371025481
+Insert 722494262
+ExtractMax
+Insert 653374258
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 673876441
+ExtractMax
+Insert 553891737
+Insert 591544462
+ExtractMax
+ExtractMax
+Insert 155651026
+ExtractMax
+Insert 656444912
+Insert 318672132
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 265694527
+ExtractMax
+Insert 887739408
+ExtractMax
+Insert 397163440
+Insert 405375132
+ExtractMax
+ExtractMax
+Insert 762183973
+ExtractMax
+Insert 454488154
+Insert 832441124
+Insert 160816938
+ExtractMax
+Insert 333705442
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 446524506
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 351653134
+ExtractMax
+Insert 161691524
+Insert 983171259
+Insert 386015221
+Insert 327531917
+ExtractMax
+ExtractMax
+Insert 530477361
+ExtractMax
+Insert 732702216
+ExtractMax
+ExtractMax
+Insert 276978670
+Insert 169953147
+ExtractMax
+Insert 710884248
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 156617293
+Insert 183296516
+ExtractMax
+ExtractMax
+Insert 491219351
+ExtractMax
+Insert 11939683
+ExtractMax
+Insert 87849141
+Insert 495286319
+ExtractMax
+ExtractMax
+Insert 297957845
+ExtractMax
+Insert 739849780
+ExtractMax
+Insert 893268952
+ExtractMax
+Insert 595828858
+Insert 133231748
+Insert 496259128
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 352251564
+Insert 991786986
+Insert 757529407
+Insert 628537077
+Insert 993213571
+Insert 22747068
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 616587732
+Insert 129100137
+Insert 651301462
+Insert 373680852
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 498667011
+ExtractMax
+Insert 195276742
+ExtractMax
+Insert 853106818
+ExtractMax
+Insert 776668254
+Insert 389723515
+Insert 927726248
+Insert 263617710
+ExtractMax
+Insert 369738093
+Insert 632837947
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 623475594
+ExtractMax
+Insert 304862785
+Insert 186565375
+ExtractMax
+ExtractMax
+Insert 98769986
+Insert 232852344
+Insert 912429154
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 811710964
+Insert 424095720
+ExtractMax
+Insert 933847315
+Insert 322444967
+ExtractMax
+Insert 462743295
+Insert 428516107
+Insert 364071824
+ExtractMax
+ExtractMax
+Insert 630260952
+ExtractMax
+Insert 311353171
+ExtractMax
+ExtractMax
+Insert 473481801
+Insert 509439156
+ExtractMax
+Insert 323058676
+Insert 398310119
+Insert 524743186
+ExtractMax
+Insert 583093993
+ExtractMax
+Insert 140188205
+ExtractMax
+Insert 644810745
+Insert 2944572
+Insert 631793909
+Insert 929001762
+Insert 864215173
+ExtractMax
+Insert 189656919
+ExtractMax
+ExtractMax
+Insert 207903010
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 330599207
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 858739275
+Insert 976754312
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 870450474
+ExtractMax
+Insert 585162075
+Insert 377862615
+ExtractMax
+Insert 73121144
+Insert 153468232
+Insert 775809768
+ExtractMax
+Insert 45779909
+Insert 248225946
+ExtractMax
+ExtractMax
+Insert 574854150
+ExtractMax
+ExtractMax
+Insert 329843104
+Insert 661829950
+Insert 69473381
+Insert 465780106
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 804215015
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 586389820
+ExtractMax
+Insert 83206758
+ExtractMax
+Insert 151287235
+Insert 67562230
+Insert 213209220
+Insert 803988024
+ExtractMax
+Insert 349819272
+ExtractMax
+ExtractMax
+Insert 179407970
+Insert 508546797
+Insert 167639042
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 918394939
+Insert 990033755
+Insert 458629890
+Insert 752941598
+ExtractMax
+ExtractMax
+Insert 299348852
+Insert 38966628
+ExtractMax
+Insert 644844247
+Insert 638928548
+Insert 820524709
+ExtractMax
+ExtractMax
+Insert 10758736
+Insert 815702644
+Insert 392310003
+ExtractMax
+Insert 921015307
+ExtractMax
+ExtractMax
+Insert 460265710
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 864022508
+Insert 124433127
+ExtractMax
+Insert 810731438
+ExtractMax
+Insert 58062151
+ExtractMax
+Insert 151308754
+ExtractMax
+ExtractMax
+Insert 654631502
+Insert 20863894
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 981489830
+ExtractMax
+Insert 216184442
+ExtractMax
+ExtractMax
+Insert 248332556
+ExtractMax
+Insert 195791425
+Insert 17415031
+Insert 674079607
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 905147433
+ExtractMax
+ExtractMax
+Insert 854802395
+ExtractMax
+Insert 277609526
+Insert 449347147
+Insert 499719948
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 404308447
+ExtractMax
+Insert 317577685
+ExtractMax
+Insert 232735256
+Insert 124218479
+Insert 24126828
+Insert 704963197
+Insert 742895146
+Insert 584963834
+Insert 443664253
+Insert 342985075
+ExtractMax
+Insert 414698639
+ExtractMax
+ExtractMax
+Insert 693434293
+ExtractMax
+Insert 59479808
+Insert 33611819
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 760192566
+Insert 261226097
+ExtractMax
+ExtractMax
+Insert 882165461
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 26975156
+ExtractMax
+Insert 417239454
+Insert 203072294
+Insert 518461884
+ExtractMax
+ExtractMax
+Insert 338348656
+Insert 36077969
+Insert 386917675
+Insert 835115006
+ExtractMax
+Insert 166630197
+Insert 629609477
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 107494757
+ExtractMax
+Insert 204565072
+Insert 529558668
+Insert 151505809
+Insert 324709397
+Insert 575333121
+Insert 557300344
+ExtractMax
+Insert 488714667
+ExtractMax
+Insert 373121376
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 913550925
+Insert 142784132
+Insert 643677497
+Insert 649059213
+ExtractMax
+ExtractMax
+Insert 856913674
+ExtractMax
+Insert 780924653
+ExtractMax
+ExtractMax
+Insert 83073837
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 879442447
+ExtractMax
+Insert 920605016
+Insert 877662255
+ExtractMax
+Insert 790310832
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 717550272
+Insert 443370285
+Insert 830730270
+ExtractMax
+Insert 227249075
+Insert 325545241
+ExtractMax
+Insert 822575160
+Insert 358185813
+ExtractMax
+Insert 556221259
+Insert 569951122
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 346496348
+Insert 287489439
+ExtractMax
+Insert 989688267
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 258863434
+Insert 423536246
+ExtractMax
+ExtractMax
+Insert 527967308
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 477902417
+Insert 148248008
+ExtractMax
+ExtractMax
+Insert 225580306
+ExtractMax
+Insert 262426624
+ExtractMax
+ExtractMax
+Insert 228882102
+Insert 403172795
+ExtractMax
+ExtractMax
+Insert 616773002
+ExtractMax
+Insert 556608918
+Insert 473874549
+Insert 781065784
+Insert 515337361
+Insert 881190612
+ExtractMax
+Insert 884940462
+ExtractMax
+Insert 654322670
+Insert 255589471
+ExtractMax
+Insert 553472773
+ExtractMax
+ExtractMax
+Insert 96167821
+ExtractMax
+Insert 388344029
+Insert 333529617
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 424343717
+Insert 48072826
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 31677188
+Insert 495103067
+ExtractMax
+Insert 600832478
+ExtractMax
+ExtractMax
+Insert 809626076
+Insert 174928309
+ExtractMax
+ExtractMax
+Insert 502557994
+Insert 91575912
+ExtractMax
+Insert 702492572
+Insert 557250931
+ExtractMax
+ExtractMax
+Insert 142750926
+Insert 923805269
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 362960204
+ExtractMax
+Insert 301651867
+Insert 555810859
+ExtractMax
+Insert 175262101
+ExtractMax
+ExtractMax
+Insert 736244966
+Insert 949813341
+Insert 746865734
+Insert 484011187
+Insert 665938254
+ExtractMax
+Insert 260105743
+ExtractMax
+ExtractMax
+Insert 592301776
+Insert 207073120
+ExtractMax
+Insert 368952424
+Insert 361784407
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 539549216
+ExtractMax
+Insert 461407814
+ExtractMax
+Insert 93408102
+Insert 667666697
+Insert 256532329
+Insert 931145812
+Insert 86289638
+Insert 630239846
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 875414299
+Insert 775540720
+Insert 730561913
+Insert 962218408
+Insert 450572630
+Insert 152871287
+ExtractMax
+Insert 590984840
+ExtractMax
+ExtractMax
+Insert 320390951
+Insert 571781361
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 224596442
+ExtractMax
+ExtractMax
+Insert 548602916
+ExtractMax
+Insert 949770159
+ExtractMax
+Insert 538927633
+Insert 790553654
+Insert 266238816
+Insert 171638123
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 323168628
+Insert 422152358
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 706170856
+ExtractMax
+ExtractMax
+Insert 697409495
+Insert 784283473
+Insert 883735162
+Insert 353488922
+ExtractMax
+Insert 816509125
+ExtractMax
+Insert 15411180
+ExtractMax
+Insert 521051775
+ExtractMax
+Insert 272326037
+ExtractMax
+Insert 356753647
+Insert 181211125
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 711372625
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 183982412
+ExtractMax
+Insert 543381740
+ExtractMax
+Insert 949203396
+Insert 105829166
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 163193703
+Insert 873019351
+ExtractMax
+ExtractMax
+Insert 100857274
+Insert 66282611
+Insert 477879386
+ExtractMax
+Insert 43188930
+Insert 525510333
+ExtractMax
+Insert 676120740
+Insert 123271669
+ExtractMax
+Insert 923687919
+Insert 49891528
+Insert 150589356
+Insert 613036114
+Insert 649177620
+ExtractMax
+Insert 564668244
+ExtractMax
+Insert 15124780
+Insert 336652375
+Insert 216579471
+Insert 126707208
+Insert 443726430
+ExtractMax
+Insert 223414966
+Insert 965079104
+Insert 225806154
+ExtractMax
+ExtractMax
+Insert 598159164
+Insert 355670827
+ExtractMax
+Insert 941060667
+ExtractMax
+ExtractMax
+Insert 16105297
+ExtractMax
+ExtractMax
+Insert 563919047
+ExtractMax
+Insert 841028477
+ExtractMax
+ExtractMax
+Insert 780179176
+ExtractMax
+ExtractMax
+Insert 537093038
+ExtractMax
+Insert 652235295
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 467036156
+Insert 162098681
+ExtractMax
+ExtractMax
+Insert 456743640
+Insert 811486487
+ExtractMax
+ExtractMax
+Insert 824174554
+Insert 869996507
+ExtractMax
+Insert 540311061
+ExtractMax
+Insert 577878996
+ExtractMax
+Insert 414446675
+ExtractMax
+Insert 634128515
+Insert 199107383
+Insert 1903357
+Insert 604000056
+Insert 933786810
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 976400785
+ExtractMax
+Insert 26360895
+Insert 97051660
+ExtractMax
+Insert 700322163
+Insert 915553731
+Insert 552700415
+ExtractMax
+Insert 338854895
+Insert 616605888
+Insert 315869014
+Insert 596151878
+Insert 536756143
+Insert 99121307
+ExtractMax
+Insert 971072361
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 703410596
+ExtractMax
+Insert 530411449
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 122798053
+Insert 592473248
+Insert 892168841
+Insert 84561389
+Insert 891937108
+Insert 77923889
+ExtractMax
+ExtractMax
+Insert 976310702
+Insert 38031840
+Insert 306911238
+Insert 258345508
+Insert 901988929
+Insert 83512516
+Insert 234334633
+ExtractMax
+Insert 264864995
+Insert 953309306
+Insert 999225572
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 55265761
+ExtractMax
+Insert 254575550
+Insert 23177290
+Insert 357371626
+Insert 62660357
+Insert 32020685
+Insert 209745325
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 1210675
+Insert 311906554
+Insert 854829123
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 639253490
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 599087305
+ExtractMax
+ExtractMax
+Insert 600196106
+ExtractMax
+Insert 29060078
+ExtractMax
+Insert 929629793
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 984038041
+Insert 506168624
+Insert 130940447
+ExtractMax
+ExtractMax
+Insert 436281068
+Insert 25577236
+Insert 436850655
+Insert 629911698
+Insert 376341808
+Insert 241738682
+Insert 127926602
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 676436051
+ExtractMax
+ExtractMax
+Insert 114914046
+Insert 822404435
+ExtractMax
+Insert 142051405
+ExtractMax
+Insert 462887390
+ExtractMax
+ExtractMax
+Insert 161396139
+ExtractMax
+ExtractMax
+Insert 421569057
+ExtractMax
+Insert 760142422
+ExtractMax
+Insert 914077946
+Insert 157394147
+ExtractMax
+ExtractMax
+Insert 152560840
+Insert 313876751
+Insert 549276301
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 467004049
+ExtractMax
+Insert 877524132
+Insert 675890603
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 611997828
+Insert 679380051
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 28309532
+Insert 235236744
+Insert 78778521
+ExtractMax
+ExtractMax
+Insert 448350815
+Insert 362831883
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 308928721
+ExtractMax
+ExtractMax
+Insert 638294651
+ExtractMax
+Insert 645306140
+Insert 407906281
+Insert 330879617
+Insert 44211770
+Insert 841926896
+ExtractMax
+ExtractMax
+Insert 355160840
+Insert 852521004
+ExtractMax
+ExtractMax
+Insert 262888964
+Insert 782140768
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 131102801
+ExtractMax
+ExtractMax
+Insert 308518294
+Insert 979791028
+Insert 954124079
+Insert 673352842
+ExtractMax
+Insert 657087102
+Insert 960992889
+Insert 420110300
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 336351757
+ExtractMax
+Insert 951322214
+ExtractMax
+ExtractMax
+Insert 207500818
+Insert 865764870
+ExtractMax
+Insert 960465645
+Insert 547166032
+Insert 620078148
+ExtractMax
+Insert 371508877
+ExtractMax
+Insert 684648146
+ExtractMax
+Insert 829911451
+Insert 847690472
+Insert 539343815
+Insert 474664679
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 199824082
+ExtractMax
+Insert 95688572
+ExtractMax
+Insert 613277620
+Insert 870658526
+ExtractMax
+Insert 585339911
+ExtractMax
+ExtractMax
+Insert 635803854
+Insert 403356026
+ExtractMax
+Insert 342859802
+ExtractMax
+ExtractMax
+Insert 750228065
+Insert 232008641
+ExtractMax
+Insert 760717734
+ExtractMax
+ExtractMax
+Insert 464643534
+Insert 733722346
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 222000373
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 911747307
+ExtractMax
+Insert 295481177
+Insert 973170945
+Insert 46017613
+Insert 631874236
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 698861753
+ExtractMax
+Insert 436677793
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 757993018
+ExtractMax
+Insert 703299077
+Insert 300939153
+Insert 47294768
+ExtractMax
+ExtractMax
+Insert 399762068
+Insert 965107154
+ExtractMax
+Insert 396795746
+ExtractMax
+ExtractMax
+Insert 620727678
+ExtractMax
+Insert 678605530
+ExtractMax
+Insert 218227028
+Insert 930765913
+ExtractMax
+ExtractMax
+Insert 639590248
+ExtractMax
+Insert 920081402
+Insert 105568609
+ExtractMax
+ExtractMax
+Insert 311776801
+Insert 122664820
+Insert 832193999
+ExtractMax
+Insert 51919750
+ExtractMax
+Insert 798780652
+Insert 81040265
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 49846625
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 14769837
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 825819690
+ExtractMax
+ExtractMax
+Insert 62352950
+ExtractMax
+ExtractMax
+Insert 197400095
+Insert 254969127
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 919317381
+Insert 266723675
+ExtractMax
+ExtractMax
+Insert 453444873
+ExtractMax
+Insert 645601827
+Insert 416259157
+Insert 953601054
+Insert 679003034
+ExtractMax
+Insert 17085853
+Insert 791846359
+Insert 216238787
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 441253399
+Insert 174509021
+Insert 337391863
+Insert 544475028
+ExtractMax
+Insert 481482060
+Insert 953800150
+Insert 417884250
+ExtractMax
+Insert 469087877
+Insert 401378645
+Insert 789945846
+ExtractMax
+Insert 536522139
+Insert 362910029
+Insert 797692554
+Insert 545579048
+ExtractMax
+Insert 389345934
+ExtractMax
+Insert 419083602
+ExtractMax
+ExtractMax
+Insert 584043954
+Insert 969451793
+Insert 457914551
+Insert 417368946
+ExtractMax
+ExtractMax
+Insert 317863694
+Insert 279897248
+Insert 355983950
+ExtractMax
+ExtractMax
+Insert 331842586
+Insert 676844181
+Insert 81706677
+Insert 13480134
+Insert 144044407
+Insert 16816355
+ExtractMax
+Insert 570970612
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 953857710
+ExtractMax
+ExtractMax
+Insert 703848600
+Insert 130216887
+Insert 55254470
+Insert 57809524
+ExtractMax
+ExtractMax
+Insert 591545465
+Insert 938591786
+ExtractMax
+ExtractMax
+Insert 478177393
+Insert 19550251
+ExtractMax
+Insert 99863501
+ExtractMax
+ExtractMax
+Insert 968289334
+Insert 538890387
+Insert 675342576
+ExtractMax
+Insert 29354416
+Insert 957187960
+Insert 50771121
+Insert 355384407
+Insert 835032503
+ExtractMax
+Insert 408356257
+ExtractMax
+Insert 253803324
+Insert 924947626
+ExtractMax
+ExtractMax
+Insert 173608415
+Insert 430663010
+Insert 781060535
+ExtractMax
+ExtractMax
+Insert 76675472
+Insert 298208694
+ExtractMax
+ExtractMax
+Insert 189180597
+ExtractMax
+Insert 810301312
+ExtractMax
+Insert 790155778
+Insert 34242564
+ExtractMax
+Insert 943897733
+Insert 422823916
+ExtractMax
+Insert 348745337
+Insert 824429156
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 893442381
+Insert 647397733
+Insert 828655649
+Insert 546894116
+ExtractMax
+Insert 991589741
+ExtractMax
+ExtractMax
+Insert 723953555
+ExtractMax
+ExtractMax
+Insert 407201931
+Insert 25537515
+ExtractMax
+Insert 20049872
+Insert 245927535
+Insert 141651512
+ExtractMax
+ExtractMax
+Insert 811620960
+Insert 831615048
+ExtractMax
+Insert 393783759
+Insert 293037468
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 666866130
+Insert 987849972
+ExtractMax
+Insert 510506169
+ExtractMax
+Insert 267312774
+Insert 694871972
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 940143111
+Insert 841277067
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 391373020
+ExtractMax
+Insert 601899163
+Insert 480727248
+ExtractMax
+ExtractMax
+Insert 674680890
+Insert 942838293
+ExtractMax
+Insert 999098258
+ExtractMax
+Insert 120065434
+ExtractMax
+Insert 419092704
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 529848065
+ExtractMax
+Insert 834538884
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 801792173
+ExtractMax
+ExtractMax
+Insert 381855240
+ExtractMax
+ExtractMax
+Insert 984089657
+ExtractMax
+Insert 551310560
+Insert 115853975
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 831755625
+Insert 115433177
+ExtractMax
+ExtractMax
+Insert 799337837
+Insert 806083669
+Insert 774614879
+ExtractMax
+Insert 203459679
+ExtractMax
+Insert 427666797
+Insert 284163242
+ExtractMax
+Insert 829754061
+Insert 9243425
+Insert 390602335
+Insert 402004776
+Insert 575739711
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 215736915
+Insert 104074478
+ExtractMax
+ExtractMax
+Insert 171779736
+Insert 992296439
+ExtractMax
+Insert 109041929
+ExtractMax
+Insert 372693092
+Insert 423987306
+ExtractMax
+Insert 234915607
+ExtractMax
+Insert 195890624
+Insert 299217749
+ExtractMax
+ExtractMax
+Insert 489213973
+Insert 382048055
+Insert 777128847
+ExtractMax
+Insert 684873002
+Insert 776389933
+ExtractMax
+Insert 882654897
+Insert 598156675
+Insert 243518646
+Insert 672863496
+ExtractMax
+ExtractMax
+Insert 309757605
+ExtractMax
+Insert 934499180
+Insert 440541023
+Insert 305374915
+ExtractMax
+Insert 400068085
+Insert 910068295
+Insert 916119963
+Insert 219528253
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 950300086
+Insert 782407998
+Insert 720935298
+ExtractMax
+Insert 108883253
+Insert 278874748
+ExtractMax
+Insert 679915729
+ExtractMax
+Insert 838096731
+Insert 179540846
+ExtractMax
+ExtractMax
+Insert 264273700
+Insert 104437875
+ExtractMax
+Insert 310723864
+Insert 317383085
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 950105487
+Insert 934290531
+Insert 972627364
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 399164654
+ExtractMax
+ExtractMax
+Insert 482207868
+Insert 65814751
+ExtractMax
+Insert 843278754
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 358142425
+ExtractMax
+Insert 360963638
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 159972210
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 158053818
+Insert 898673476
+ExtractMax
+Insert 397436422
+ExtractMax
+Insert 715538106
+Insert 349487638
+Insert 72854394
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 222107922
+Insert 139639791
+Insert 517068421
+Insert 635728744
+ExtractMax
+Insert 405644626
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 19777573
+ExtractMax
+Insert 947657368
+ExtractMax
+ExtractMax
+Insert 37000207
+Insert 383264586
+ExtractMax
+ExtractMax
+Insert 801662797
+Insert 929961564
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 108983737
+ExtractMax
+Insert 765440915
+ExtractMax
+Insert 865012726
+Insert 480601925
+ExtractMax
+Insert 688448223
+ExtractMax
+Insert 627495469
+Insert 703958427
+Insert 911081790
+Insert 481465500
+ExtractMax
+ExtractMax
+Insert 434573323
+Insert 658201258
+ExtractMax
+Insert 833237457
+ExtractMax
+Insert 307452774
+ExtractMax
+ExtractMax
+Insert 878447322
+ExtractMax
+Insert 456278586
+Insert 928690419
+ExtractMax
+ExtractMax
+Insert 348782464
+Insert 525089708
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 893287833
+ExtractMax
+Insert 106399050
+ExtractMax
+Insert 375909059
+Insert 363804948
+ExtractMax
+Insert 431537360
+Insert 620202904
+Insert 424590114
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 979625717
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 17238501
+ExtractMax
+Insert 131260188
+Insert 479219204
+ExtractMax
+Insert 945420023
+Insert 559719402
+Insert 503838683
+ExtractMax
+Insert 381065855
+ExtractMax
+Insert 79068546
+Insert 798685567
+Insert 624007061
+Insert 112900175
+ExtractMax
+Insert 684846032
+Insert 514770575
+Insert 419917517
+Insert 884746352
+Insert 864787728
+Insert 173291873
+Insert 106686239
+ExtractMax
+Insert 495436650
+Insert 827578482
+Insert 340167957
+ExtractMax
+Insert 505484475
+ExtractMax
+Insert 924229092
+Insert 33698231
+ExtractMax
+Insert 729557809
+ExtractMax
+Insert 311496040
+Insert 621656101
+Insert 851476990
+ExtractMax
+ExtractMax
+Insert 535301283
+Insert 743272971
+Insert 981560812
+ExtractMax
+ExtractMax
+Insert 311657341
+ExtractMax
+Insert 629007362
+ExtractMax
+ExtractMax
+Insert 386561092
+Insert 751750163
+ExtractMax
+Insert 390325303
+ExtractMax
+Insert 892914858
+Insert 844862012
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 201288989
+ExtractMax
+Insert 547110285
+ExtractMax
+Insert 543494401
+ExtractMax
+ExtractMax
+Insert 114966805
+Insert 336699469
+ExtractMax
+Insert 661105464
+ExtractMax
+Insert 366168381
+ExtractMax
+ExtractMax
+Insert 699371620
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 978193952
+Insert 100676447
+ExtractMax
+Insert 344523104
+Insert 881654864
+ExtractMax
+Insert 122603093
+Insert 318551773
+Insert 93295270
+ExtractMax
+Insert 640342321
+Insert 571111215
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 772060600
+ExtractMax
+ExtractMax
+Insert 99295215
+ExtractMax
+ExtractMax
+Insert 613320927
+Insert 838133291
+ExtractMax
+Insert 667834071
+Insert 871964539
+ExtractMax
+Insert 293619500
+Insert 913746890
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 206331132
+ExtractMax
+Insert 977380987
+Insert 566473794
+ExtractMax
+ExtractMax
+Insert 337701613
+Insert 347099335
+ExtractMax
+Insert 51830351
+ExtractMax
+Insert 52744581
+Insert 991365995
+Insert 27040385
+Insert 170214492
+Insert 245638995
+ExtractMax
+ExtractMax
+Insert 358834439
+Insert 712558474
+Insert 869981814
+Insert 45837920
+Insert 641198802
+Insert 871318210
+Insert 11678932
+Insert 34169202
+ExtractMax
+ExtractMax
+Insert 992776224
+ExtractMax
+ExtractMax
+Insert 284846343
+Insert 242119288
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 520399899
+ExtractMax
+ExtractMax
+Insert 304946832
+ExtractMax
+ExtractMax
+Insert 736021235
+Insert 617290766
+ExtractMax
+ExtractMax
+Insert 99831082
+ExtractMax
+Insert 824375163
+Insert 975445386
+Insert 48645720
+Insert 455390708
+ExtractMax
+ExtractMax
+Insert 783825126
+ExtractMax
+Insert 697570512
+Insert 545158963
+ExtractMax
+Insert 206018528
+ExtractMax
+Insert 408335160
+Insert 996676890
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 25284330
+Insert 25518482
+Insert 385068832
+Insert 288736304
+Insert 387628226
+ExtractMax
+Insert 661531364
+Insert 499039006
+ExtractMax
+Insert 445124930
+Insert 45014676
+Insert 752286822
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 685982520
+Insert 630010990
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 89706021
+ExtractMax
+Insert 765519619
+Insert 91880012
+ExtractMax
+Insert 643896824
+Insert 775250448
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 36838128
+Insert 403870932
+Insert 855405192
+ExtractMax
+ExtractMax
+Insert 810160749
+Insert 415057586
+Insert 612085730
+ExtractMax
+ExtractMax
+Insert 544569484
+Insert 555707820
+ExtractMax
+ExtractMax
+Insert 199505094
+Insert 827414730
+Insert 691627115
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 127689611
+Insert 376611567
+Insert 889969046
+ExtractMax
+Insert 237106858
+Insert 487334734
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 466767856
+Insert 359330517
+Insert 228511176
+Insert 706991246
+Insert 697535356
+Insert 834471326
+Insert 665823847
+ExtractMax
+Insert 522007226
+ExtractMax
+Insert 859139516
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 663564849
+ExtractMax
+ExtractMax
+Insert 597869701
+Insert 590840397
+ExtractMax
+ExtractMax
+Insert 283144399
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 202416226
+Insert 967109690
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 532418482
+ExtractMax
+Insert 472460264
+Insert 857533222
+Insert 165344916
+Insert 730254702
+Insert 993515045
+Insert 410425653
+Insert 559281007
+ExtractMax
+ExtractMax
+Insert 472159946
+Insert 336917642
+Insert 755975099
+Insert 244833979
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 359154051
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 738667670
+Insert 745402997
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 187378613
+ExtractMax
+Insert 102366677
+Insert 479883073
+Insert 714639253
+Insert 12405707
+Insert 481531548
+Insert 478838607
+Insert 413358261
+Insert 784861413
+ExtractMax
+ExtractMax
+Insert 596655943
+Insert 208451550
+Insert 688482839
+ExtractMax
+Insert 6642957
+Insert 892396824
+ExtractMax
+Insert 998485486
+ExtractMax
+ExtractMax
+Insert 652314741
+ExtractMax
+Insert 52642011
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 732813028
+Insert 434342971
+Insert 624812899
+Insert 841696827
+Insert 343117410
+Insert 55731863
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 162464255
+Insert 882380529
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 536297966
+Insert 676639290
+Insert 861908103
+Insert 993513743
+Insert 967890691
+Insert 412625418
+ExtractMax
+ExtractMax
+Insert 833616378
+ExtractMax
+ExtractMax
+Insert 480911350
+Insert 703392048
+Insert 58964650
+Insert 277419116
+ExtractMax
+ExtractMax
+Insert 912684278
+Insert 753711841
+ExtractMax
+Insert 41865920
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 50643012
+Insert 332937891
+Insert 929647481
+Insert 437495656
+Insert 407155084
+Insert 768320838
+Insert 618519678
+ExtractMax
+ExtractMax
+Insert 828710553
+ExtractMax
+Insert 216069879
+Insert 251275589
+ExtractMax
+Insert 603303555
+Insert 766808266
+Insert 133852077
+Insert 69960987
+Insert 774565821
+ExtractMax
+ExtractMax
+Insert 662451760
+Insert 804568370
+Insert 908714976
+Insert 10138549
+ExtractMax
+Insert 28341122
+Insert 988489849
+Insert 591224813
+Insert 240348117
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 573796017
+Insert 205845457
+Insert 233784488
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 786961845
+ExtractMax
+ExtractMax
+Insert 613627209
+ExtractMax
+Insert 669905589
+ExtractMax
+Insert 133746107
+Insert 467701304
+Insert 788877959
+ExtractMax
+Insert 587035854
+Insert 471203089
+Insert 121615661
+ExtractMax
+Insert 131153218
+Insert 168845662
+Insert 527082663
+ExtractMax
+Insert 72521524
+Insert 407629836
+ExtractMax
+Insert 564296508
+Insert 403310488
+Insert 430880811
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 879679523
+Insert 366913604
+ExtractMax
+Insert 169991365
+ExtractMax
+ExtractMax
+Insert 163674321
+ExtractMax
+Insert 702010534
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 574055037
+Insert 41477051
+Insert 25266637
+Insert 50107528
+Insert 143933827
+Insert 587130054
+Insert 671364010
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 864229504
+Insert 340255205
+Insert 815472666
+Insert 599034132
+ExtractMax
+Insert 631000452
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 62251311
+ExtractMax
+ExtractMax
+Insert 145480865
+Insert 443469217
+Insert 388070143
+ExtractMax
+ExtractMax
+Insert 125239837
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 214519506
+ExtractMax
+Insert 11945139
+Insert 701774908
+ExtractMax
+Insert 943796497
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 255017442
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 339625258
+Insert 55984669
+Insert 175024759
+Insert 952395411
+Insert 959030870
+Insert 131176746
+Insert 917656888
+ExtractMax
+ExtractMax
+Insert 208632838
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 468787539
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 239843111
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 539380635
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 839066937
+ExtractMax
+Insert 297858600
+Insert 655222903
+Insert 626108155
+Insert 339290861
+ExtractMax
+ExtractMax
+Insert 567983550
+ExtractMax
+Insert 497317850
+ExtractMax
+ExtractMax
+Insert 716600547
+Insert 601143357
+Insert 563425298
+Insert 161891773
+Insert 718534426
+Insert 171783633
+Insert 787815685
+ExtractMax
+ExtractMax
+Insert 884053245
+Insert 450390820
+Insert 273049368
+ExtractMax
+Insert 675227583
+ExtractMax
+ExtractMax
+Insert 345471179
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 179450922
+Insert 968054192
+Insert 582007825
+Insert 267503182
+ExtractMax
+Insert 889666029
+ExtractMax
+Insert 500024569
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 68097377
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 80677137
+Insert 28790226
+Insert 984408335
+ExtractMax
+Insert 378379085
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 860394961
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 455850076
+ExtractMax
+Insert 497480457
+Insert 150057580
+Insert 991063441
+Insert 865011272
+ExtractMax
+Insert 660239115
+Insert 287345994
+Insert 170342137
+Insert 826420955
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 221756225
+Insert 563043876
+ExtractMax
+Insert 281075156
+ExtractMax
+ExtractMax
+Insert 454515658
+ExtractMax
+ExtractMax
+Insert 952749089
+Insert 156860674
+Insert 952694560
+Insert 200062887
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 89731898
+ExtractMax
+Insert 728606641
+Insert 95558855
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 31326894
+Insert 707498826
+Insert 841528374
+Insert 586043113
+Insert 723173124
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 860760903
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 249424556
+Insert 150450844
+Insert 833038782
+ExtractMax
+ExtractMax
+Insert 913268389
+ExtractMax
+Insert 956621934
+Insert 726174329
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 554171689
+ExtractMax
+ExtractMax
+Insert 813669347
+Insert 628006853
+Insert 98072836
+Insert 975027484
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 483979991
+ExtractMax
+Insert 461737577
+ExtractMax
+Insert 432137828
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 462695300
+Insert 167188609
+Insert 223144220
+ExtractMax
+Insert 213361653
+ExtractMax
+Insert 905896755
+ExtractMax
+Insert 528426419
+ExtractMax
+ExtractMax
+Insert 676629389
+Insert 84071793
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 894936720
+ExtractMax
+Insert 23871431
+Insert 595611000
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 48067370
+ExtractMax
+ExtractMax
+Insert 405368710
+ExtractMax
+ExtractMax
+Insert 903565543
+Insert 558014864
+Insert 342230103
+ExtractMax
+Insert 482340340
+Insert 207275758
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 770789267
+ExtractMax
+Insert 996395311
+ExtractMax
+Insert 491182167
+Insert 274923444
+Insert 625002251
+ExtractMax
+ExtractMax
+Insert 583722381
+Insert 880310692
+Insert 656991287
+ExtractMax
+ExtractMax
+Insert 56978070
+ExtractMax
+Insert 187409066
+ExtractMax
+ExtractMax
+Insert 881974191
+ExtractMax
+Insert 346942139
+Insert 28676046
+Insert 723693669
+ExtractMax
+Insert 273377482
+ExtractMax
+Insert 261490840
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 890560716
+ExtractMax
+Insert 506766889
+ExtractMax
+ExtractMax
+Insert 983707450
+ExtractMax
+ExtractMax
+Insert 125909931
+Insert 43809158
+Insert 15042545
+Insert 870096200
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 511312485
+ExtractMax
+ExtractMax
+Insert 436162297
+ExtractMax
+ExtractMax
+Insert 669866857
+ExtractMax
+Insert 254178628
+ExtractMax
+Insert 685950440
+ExtractMax
+ExtractMax
+Insert 441301636
+Insert 686576228
+ExtractMax
+Insert 60491244
+ExtractMax
+Insert 47354850
+ExtractMax
+Insert 333885243
+Insert 806747669
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 787984275
+Insert 69203010
+Insert 475658263
+ExtractMax
+ExtractMax
+Insert 298616528
+ExtractMax
+Insert 532500440
+Insert 805705627
+Insert 523207757
+ExtractMax
+Insert 157104108
+Insert 487676314
+Insert 594686743
+Insert 769360682
+ExtractMax
+Insert 266383385
+ExtractMax
+Insert 291328921
+ExtractMax
+ExtractMax
+Insert 965121899
+Insert 416513665
+Insert 697928722
+Insert 271241870
+ExtractMax
+Insert 190684611
+Insert 378875136
+Insert 617713191
+ExtractMax
+Insert 26242368
+Insert 917365388
+ExtractMax
+Insert 774072351
+ExtractMax
+ExtractMax
+Insert 698954905
+ExtractMax
+ExtractMax
+Insert 795863467
+Insert 884143927
+ExtractMax
+Insert 103518414
+Insert 540396174
+Insert 195470526
+Insert 962075292
+Insert 16897375
+Insert 101159330
+Insert 427159965
+Insert 139687659
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 743984413
+Insert 271285050
+ExtractMax
+ExtractMax
+Insert 445151676
+ExtractMax
+Insert 574344997
+Insert 83355096
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 134482475
+ExtractMax
+Insert 332293180
+Insert 345705369
+ExtractMax
+Insert 639718345
+ExtractMax
+Insert 403474072
+Insert 559467208
+ExtractMax
+Insert 905265797
+Insert 266996525
+ExtractMax
+Insert 648241340
+ExtractMax
+Insert 457031820
+Insert 276672666
+Insert 33432436
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 515642924
+ExtractMax
+Insert 437878562
+ExtractMax
+ExtractMax
+Insert 334899163
+Insert 480852352
+Insert 348612415
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 421043804
+Insert 642231850
+Insert 330042385
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 260586270
+Insert 195233895
+ExtractMax
+ExtractMax
+Insert 420029338
+ExtractMax
+Insert 123351374
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 819357802
+Insert 543702544
+ExtractMax
+ExtractMax
+Insert 440128995
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 927596250
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 247820150
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 684061205
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 9216886
+ExtractMax
+Insert 297522549
+ExtractMax
+ExtractMax
+Insert 778425975
+Insert 609955518
+Insert 803048704
+Insert 30989965
+Insert 733860078
+Insert 535646777
+ExtractMax
+ExtractMax
+Insert 621457166
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 885051718
+Insert 908832043
+Insert 833002348
+ExtractMax
+Insert 528786681
+Insert 981502982
+Insert 120761467
+Insert 637238040
+ExtractMax
+ExtractMax
+Insert 316873097
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 963844310
+ExtractMax
+Insert 986027853
+Insert 852557269
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 391395213
+ExtractMax
+ExtractMax
+Insert 497196721
+Insert 980411258
+Insert 147867436
+ExtractMax
+ExtractMax
+Insert 830513965
+Insert 196021696
+ExtractMax
+Insert 92686978
+ExtractMax
+ExtractMax
+Insert 620147157
+ExtractMax
+Insert 89183081
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 888966849
+Insert 2417773
+ExtractMax
+Insert 716421509
+Insert 886131965
+Insert 439382234
+ExtractMax
+Insert 85483954
+Insert 35960283
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 648413786
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 688914836
+ExtractMax
+Insert 310943663
+ExtractMax
+ExtractMax
+Insert 514557137
+ExtractMax
+Insert 290925655
+Insert 108108311
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 65821892
+Insert 796586421
+ExtractMax
+Insert 891380323
+Insert 40276930
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 93792605
+ExtractMax
+ExtractMax
+Insert 381791825
+ExtractMax
+ExtractMax
+Insert 546071017
+ExtractMax
+Insert 440561175
+ExtractMax
+Insert 720691596
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 540147650
+ExtractMax
+ExtractMax
+Insert 732157405
+Insert 670910962
+Insert 559024233
+ExtractMax
+ExtractMax
+Insert 592972592
+Insert 481123375
+ExtractMax
+Insert 62781338
+ExtractMax
+Insert 444986084
+Insert 999617852
+ExtractMax
+Insert 682261151
+ExtractMax
+ExtractMax
+Insert 538993766
+Insert 243658135
+Insert 663276504
+ExtractMax
+Insert 29979520
+ExtractMax
+Insert 887536448
+Insert 227724255
+ExtractMax
+Insert 2786747
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 792142680
+Insert 695896192
+ExtractMax
+Insert 508338722
+Insert 117410732
+ExtractMax
+Insert 294524982
+Insert 740947880
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 593463109
+Insert 279000272
+ExtractMax
+Insert 77606885
+ExtractMax
+Insert 155089747
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 255402664
+ExtractMax
+Insert 118574913
+Insert 688803658
+ExtractMax
+ExtractMax
+Insert 60812630
+ExtractMax
+Insert 274939252
+Insert 5919818
+Insert 698223820
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 313265443
+Insert 803422211
+ExtractMax
+ExtractMax
+Insert 44921765
+ExtractMax
+Insert 477607406
+Insert 167586810
+Insert 625011788
+Insert 888770140
+Insert 765785060
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 708838615
+Insert 359439521
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 999412836
+ExtractMax
+ExtractMax
+Insert 586057012
+Insert 849785245
+ExtractMax
+Insert 990013969
+Insert 22889329
+Insert 832901869
+Insert 169920636
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 393052129
+ExtractMax
+Insert 174536880
+ExtractMax
+ExtractMax
+Insert 928604058
+ExtractMax
+Insert 240971993
+ExtractMax
+Insert 722900502
+ExtractMax
+Insert 939956076
+Insert 696092041
+ExtractMax
+ExtractMax
+Insert 644054204
+Insert 171016107
+ExtractMax
+Insert 241400025
+Insert 61325952
+Insert 472446959
+ExtractMax
+Insert 79877169
+ExtractMax
+Insert 181509650
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 923379261
+Insert 129443177
+Insert 64773278
+Insert 111762213
+ExtractMax
+Insert 713686384
+ExtractMax
+Insert 614002455
+Insert 486879020
+Insert 401858666
+ExtractMax
+Insert 810945992
+ExtractMax
+Insert 246303710
+ExtractMax
+ExtractMax
+Insert 888678561
+Insert 349200792
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 409223025
+ExtractMax
+Insert 469784512
+ExtractMax
+Insert 592117771
+Insert 354471018
+ExtractMax
+Insert 460697980
+Insert 345424173
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 121840363
+ExtractMax
+ExtractMax
+Insert 602307215
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 560862634
+Insert 552722745
+ExtractMax
+Insert 96719810
+ExtractMax
+ExtractMax
+Insert 818382093
+ExtractMax
+Insert 667461924
+Insert 27485720
+ExtractMax
+ExtractMax
+Insert 358192842
+Insert 321763038
+ExtractMax
+Insert 727595615
+ExtractMax
+Insert 120873572
+ExtractMax
+Insert 600954548
+ExtractMax
+ExtractMax
+Insert 405115078
+Insert 718574349
+Insert 170386313
+ExtractMax
+Insert 227631654
+ExtractMax
+ExtractMax
+Insert 638001454
+Insert 588715500
+Insert 197002212
+ExtractMax
+Insert 958174942
+Insert 784637187
+ExtractMax
+Insert 929790872
+ExtractMax
+Insert 709347794
+ExtractMax
+Insert 544035854
+ExtractMax
+Insert 413926490
+Insert 432592754
+ExtractMax
+Insert 26872983
+Insert 988240732
+Insert 237852884
+ExtractMax
+Insert 371538472
+Insert 159433396
+Insert 941683177
+Insert 326485455
+Insert 648140908
+Insert 722488876
+ExtractMax
+Insert 573766808
+ExtractMax
+ExtractMax
+Insert 297492850
+ExtractMax
+Insert 461336466
+Insert 336286743
+Insert 702282982
+Insert 585247066
+ExtractMax
+Insert 538898107
+Insert 679570393
+Insert 39552360
+ExtractMax
+Insert 837948035
+Insert 713161739
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 418793979
+Insert 302413665
+Insert 531628629
+Insert 137643108
+Insert 347601649
+Insert 924318902
+Insert 485926374
+ExtractMax
+ExtractMax
+Insert 904003440
+ExtractMax
+Insert 724818316
+Insert 636736959
+Insert 372169521
+ExtractMax
+Insert 128537280
+ExtractMax
+Insert 535839151
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 375454086
+ExtractMax
+ExtractMax
+Insert 884848825
+Insert 682036450
+Insert 815929074
+ExtractMax
+Insert 703259471
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 362130401
+ExtractMax
+ExtractMax
+Insert 824829517
+Insert 206632327
+Insert 163196739
+ExtractMax
+Insert 753515226
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 511051787
+Insert 76822374
+Insert 884307405
+ExtractMax
+ExtractMax
+Insert 181677612
+Insert 286852818
+ExtractMax
+ExtractMax
+Insert 895447031
+Insert 800766007
+Insert 317965945
+Insert 607384330
+Insert 464621053
+Insert 560191870
+ExtractMax
+ExtractMax
+Insert 37042450
+Insert 289343993
+Insert 95311668
+ExtractMax
+ExtractMax
+Insert 242228146
+Insert 11482520
+Insert 876773756
+ExtractMax
+ExtractMax
+Insert 968357303
+ExtractMax
+ExtractMax
+Insert 277425673
+Insert 814915194
+Insert 727622704
+Insert 542212903
+ExtractMax
+Insert 443701035
+Insert 52904907
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 299105244
+ExtractMax
+Insert 933983216
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 805158847
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 86977861
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 19635285
+ExtractMax
+Insert 531109181
+Insert 389835858
+ExtractMax
+Insert 26868264
+Insert 209676365
+ExtractMax
+ExtractMax
+Insert 715139253
+Insert 566253679
+ExtractMax
+Insert 469576142
+ExtractMax
+Insert 872259458
+ExtractMax
+Insert 394359749
+ExtractMax
+Insert 563902036
+ExtractMax
+Insert 554687444
+Insert 996649043
+Insert 233300287
+Insert 771268749
+ExtractMax
+Insert 826675623
+Insert 397061728
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 684935467
+ExtractMax
+Insert 30790988
+ExtractMax
+ExtractMax
+Insert 486736659
+Insert 279402823
+ExtractMax
+ExtractMax
+Insert 94189656
+ExtractMax
+Insert 635119175
+Insert 374537568
+Insert 546309211
+Insert 370515258
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 594756019
+ExtractMax
+Insert 474968283
+ExtractMax
+Insert 271622972
+ExtractMax
+Insert 368122561
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 878971055
+ExtractMax
+Insert 220818499
+Insert 360905015
+ExtractMax
+ExtractMax
+Insert 462723763
+ExtractMax
+ExtractMax
+Insert 856319779
+Insert 948922591
+Insert 833214641
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 709296852
+ExtractMax
+Insert 504095174
+ExtractMax
+Insert 562666867
+Insert 196021535
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 731691596
+ExtractMax
+ExtractMax
+Insert 721040486
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 763683291
+Insert 283670797
+Insert 883811731
+Insert 349836891
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 464725994
+Insert 197942926
+ExtractMax
+Insert 436465661
+ExtractMax
+ExtractMax
+Insert 474564357
+Insert 425653030
+Insert 420482160
+Insert 885695667
+Insert 134852703
+Insert 366264727
+Insert 891368150
+ExtractMax
+Insert 6172196
+Insert 238899095
+ExtractMax
+Insert 958410808
+Insert 429800700
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 611528524
+ExtractMax
+ExtractMax
+Insert 339648771
+ExtractMax
+ExtractMax
+Insert 631354222
+ExtractMax
+Insert 572034257
+Insert 843948563
+ExtractMax
+Insert 564835990
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 851199995
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 920798459
+ExtractMax
+Insert 152429233
+Insert 288987929
+Insert 989818113
+Insert 402062989
+Insert 589447893
+ExtractMax
+Insert 46723075
+ExtractMax
+Insert 173895981
+Insert 746243541
+Insert 341895025
+Insert 306559211
+Insert 606594704
+ExtractMax
+Insert 106670191
+Insert 617985018
+Insert 936949916
+Insert 824034882
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 561518702
+Insert 528954350
+Insert 169462525
+Insert 734802162
+Insert 550126978
+ExtractMax
+ExtractMax
+Insert 821909093
+ExtractMax
+Insert 555372938
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 210791696
+Insert 190325711
+ExtractMax
+Insert 450534485
+ExtractMax
+Insert 275845965
+ExtractMax
+ExtractMax
+Insert 106673866
+ExtractMax
+Insert 204680665
+ExtractMax
+ExtractMax
+Insert 403799784
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 536082074
+Insert 18134411
+ExtractMax
+ExtractMax
+Insert 412654546
+Insert 37327507
+Insert 318394692
+Insert 507839631
+ExtractMax
+Insert 151540797
+Insert 9743234
+Insert 610360909
+Insert 564829002
+Insert 559442677
+ExtractMax
+Insert 74113607
+ExtractMax
+ExtractMax
+Insert 135331028
+Insert 816596286
+ExtractMax
+Insert 38690230
+ExtractMax
+ExtractMax
+Insert 618467805
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 466875955
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 831384261
+Insert 222031081
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 333101568
+ExtractMax
+Insert 682441589
+ExtractMax
+Insert 378025686
+Insert 481092144
+Insert 997994501
+ExtractMax
+ExtractMax
+Insert 57625382
+ExtractMax
+Insert 932561119
+Insert 899385249
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 124443634
+Insert 254298959
+ExtractMax
+Insert 104713312
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 139326104
+Insert 634348804
+ExtractMax
+Insert 819479891
+ExtractMax
+Insert 442635747
+Insert 615923399
+Insert 944793335
+ExtractMax
+Insert 346511699
+Insert 864487421
+Insert 701938134
+Insert 585450257
+ExtractMax
+Insert 908686916
+Insert 488812849
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 124378638
+Insert 811774520
+ExtractMax
+Insert 261785703
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 764480675
+Insert 273463554
+Insert 746249502
+Insert 971926371
+Insert 860097548
+ExtractMax
+ExtractMax
+Insert 437795469
+Insert 730989889
+ExtractMax
+Insert 751291474
+ExtractMax
+ExtractMax
+Insert 56277663
+ExtractMax
+ExtractMax
+Insert 68401080
+ExtractMax
+Insert 565933602
+Insert 477548
+Insert 931369839
+ExtractMax
+ExtractMax
+Insert 434866482
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 243795247
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 637041697
+Insert 98377467
+ExtractMax
+Insert 402193540
+Insert 55940529
+Insert 497716304
+ExtractMax
+Insert 673990559
+Insert 530360226
+Insert 438847524
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 522854453
+Insert 136645434
+ExtractMax
+Insert 417575836
+Insert 412288504
+ExtractMax
+Insert 493330592
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 48307055
+Insert 820172451
+ExtractMax
+Insert 408599113
+ExtractMax
+Insert 59855283
+Insert 491199005
+Insert 623091828
+ExtractMax
+Insert 67997253
+ExtractMax
+ExtractMax
+Insert 898226373
+ExtractMax
+ExtractMax
+Insert 312516801
+ExtractMax
+Insert 620844508
+Insert 652565626
+ExtractMax
+Insert 599095558
+ExtractMax
+Insert 395110720
+Insert 544198767
+ExtractMax
+Insert 255837927
+Insert 335221145
+Insert 772813228
+ExtractMax
+Insert 811943446
+Insert 662252573
+Insert 688292764
+Insert 989775429
+ExtractMax
+ExtractMax
+Insert 392936065
+ExtractMax
+Insert 471769141
+Insert 449211184
+Insert 72880290
+Insert 36508092
+Insert 182377343
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 706421667
+Insert 894951967
+ExtractMax
+Insert 216856793
+ExtractMax
+Insert 779241759
+Insert 336496048
+ExtractMax
+Insert 197918985
+Insert 321448269
+ExtractMax
+Insert 373333266
+Insert 293770711
+ExtractMax
+Insert 156462907
+ExtractMax
+ExtractMax
+Insert 938483493
+Insert 551335889
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 827629652
+ExtractMax
+Insert 751536827
+ExtractMax
+Insert 107815648
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 926462948
+ExtractMax
+Insert 221903376
+Insert 153954397
+Insert 690004177
+ExtractMax
+Insert 207786929
+ExtractMax
+ExtractMax
+Insert 997063207
+Insert 619204066
+ExtractMax
+ExtractMax
+Insert 778949016
+ExtractMax
+Insert 84833243
+ExtractMax
+Insert 826456361
+Insert 861448627
+ExtractMax
+Insert 391762673
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 346795641
+ExtractMax
+Insert 808298066
+Insert 987082999
+ExtractMax
+Insert 201573823
+ExtractMax
+Insert 791862777
+ExtractMax
+Insert 803723468
+ExtractMax
+Insert 707829228
+ExtractMax
+Insert 945818978
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 717918204
+ExtractMax
+Insert 34906470
+Insert 645534080
+Insert 359577323
+Insert 331410593
+Insert 403967009
+ExtractMax
+Insert 231614803
+Insert 301297088
+ExtractMax
+Insert 246512144
+ExtractMax
+Insert 700754553
+Insert 560327694
+Insert 848935148
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 89293554
+Insert 676232833
+Insert 828102982
+Insert 168529956
+Insert 851589248
+ExtractMax
+ExtractMax
+Insert 354594333
+Insert 740776384
+Insert 599001575
+Insert 809168274
+Insert 619650391
+Insert 975349195
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 683109075
+Insert 377526646
+Insert 349238695
+Insert 558914715
+ExtractMax
+Insert 162571916
+Insert 392788469
+ExtractMax
+ExtractMax
+Insert 530770323
+Insert 920778983
+Insert 91264920
+Insert 551744285
+ExtractMax
+ExtractMax
+Insert 557892550
+Insert 922374411
+ExtractMax
+Insert 393972632
+Insert 938749675
+ExtractMax
+Insert 480142791
+ExtractMax
+Insert 331239099
+ExtractMax
+Insert 658750289
+ExtractMax
+Insert 511448161
+ExtractMax
+ExtractMax
+Insert 757788947
+ExtractMax
+Insert 754278531
+ExtractMax
+ExtractMax
+Insert 720256300
+Insert 60538638
+ExtractMax
+Insert 177396986
+Insert 7817264
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 417104441
+ExtractMax
+Insert 296638124
+Insert 820444
+Insert 366520095
+Insert 388396009
+ExtractMax
+ExtractMax
+Insert 680117100
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 966630172
+Insert 202907712
+Insert 63939786
+ExtractMax
+ExtractMax
+Insert 604755447
+Insert 686351512
+ExtractMax
+Insert 321006174
+ExtractMax
+ExtractMax
+Insert 904470485
+ExtractMax
+ExtractMax
+Insert 678046908
+Insert 156414078
+Insert 442998951
+ExtractMax
+ExtractMax
+Insert 268175487
+ExtractMax
+Insert 880717433
+ExtractMax
+ExtractMax
+Insert 565018592
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 387675753
+ExtractMax
+Insert 328547330
+Insert 574030066
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 9150843
+Insert 275115392
+ExtractMax
+ExtractMax
+Insert 585407250
+Insert 297798498
+Insert 962070400
+Insert 858352981
+Insert 318978039
+Insert 276738215
+Insert 557393096
+Insert 667755082
+Insert 643154858
+Insert 558942070
+Insert 147540860
+ExtractMax
+Insert 590686719
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 22317393
+ExtractMax
+Insert 621498157
+Insert 50115727
+Insert 90158779
+ExtractMax
+Insert 491602516
+Insert 352971318
+Insert 657294135
+ExtractMax
+Insert 402095024
+Insert 522862581
+Insert 310824136
+Insert 216525892
+Insert 477373923
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 744508340
+Insert 279795370
+Insert 63722093
+ExtractMax
+ExtractMax
+Insert 639753645
+ExtractMax
+Insert 230890638
+Insert 974797451
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 162710961
+Insert 322995724
+ExtractMax
+Insert 558930938
+Insert 938466431
+ExtractMax
+Insert 766800239
+Insert 127412459
+ExtractMax
+Insert 172101876
+ExtractMax
+Insert 83481184
+Insert 811048187
+ExtractMax
+ExtractMax
+Insert 593042540
+ExtractMax
+ExtractMax
+Insert 223267538
+Insert 475162496
+Insert 945890832
+ExtractMax
+Insert 956349655
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 100597493
+Insert 259027259
+ExtractMax
+Insert 361764904
+Insert 622040490
+Insert 337318
+Insert 912192334
+Insert 462378188
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 619761442
+ExtractMax
+Insert 934887649
+ExtractMax
+Insert 822404673
+Insert 788516351
+Insert 45067328
+ExtractMax
+Insert 994758281
+Insert 459881896
+Insert 374762789
+ExtractMax
+ExtractMax
+Insert 765179593
+Insert 534846580
+ExtractMax
+Insert 527504248
+Insert 973516357
+ExtractMax
+Insert 880676606
+Insert 651601274
+Insert 82444022
+Insert 250012788
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 110325205
+ExtractMax
+Insert 936330315
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 364742898
+ExtractMax
+Insert 531645609
+Insert 42140016
+Insert 308717927
+ExtractMax
+ExtractMax
+Insert 600056955
+Insert 133302489
+ExtractMax
+ExtractMax
+Insert 498886415
+ExtractMax
+Insert 646499639
+Insert 876431489
+Insert 333761962
+ExtractMax
+ExtractMax
+Insert 384375047
+Insert 651800394
+ExtractMax
+Insert 398670166
+Insert 780068600
+Insert 601823552
+ExtractMax
+Insert 474168577
+Insert 494775570
+Insert 879883723
+Insert 688865360
+Insert 13374876
+Insert 475118121
+ExtractMax
+Insert 140892621
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 106291959
+Insert 993276493
+ExtractMax
+Insert 561968875
+Insert 60304891
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 275411172
+ExtractMax
+Insert 71771989
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 673060239
+Insert 755340998
+ExtractMax
+Insert 242294027
+Insert 412986447
+Insert 581710155
+Insert 893328332
+Insert 897535515
+Insert 648274927
+ExtractMax
+Insert 692269197
+Insert 571372003
+Insert 943597000
+ExtractMax
+ExtractMax
+Insert 210201350
+Insert 700931280
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 934683911
+Insert 599151875
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 816896003
+ExtractMax
+Insert 575071264
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 843760669
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 262377200
+Insert 100032071
+Insert 406244412
+ExtractMax
+ExtractMax
+Insert 820206756
+Insert 37996054
+ExtractMax
+Insert 118655078
+Insert 911944956
+ExtractMax
+ExtractMax
+Insert 696506057
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 434087549
+Insert 957685005
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 34415403
+Insert 84556057
+Insert 470853331
+ExtractMax
+ExtractMax
+Insert 303380862
+Insert 432399519
+ExtractMax
+Insert 157450520
+ExtractMax
+Insert 776699412
+ExtractMax
+Insert 872876918
+ExtractMax
+ExtractMax
+Insert 605888108
+Insert 725493985
+ExtractMax
+Insert 850337173
+ExtractMax
+Insert 472915502
+Insert 919725115
+ExtractMax
+Insert 276192668
+ExtractMax
+Insert 229348225
+Insert 452627295
+Insert 671588287
+Insert 633501786
+Insert 237015907
+Insert 12796313
+Insert 716195525
+ExtractMax
+Insert 157404203
+ExtractMax
+Insert 599936575
+ExtractMax
+Insert 918854731
+Insert 326963413
+Insert 222020369
+Insert 702958900
+Insert 636526389
+Insert 478016675
+Insert 164224584
+Insert 817799864
+Insert 380398257
+Insert 899899836
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 42665603
+ExtractMax
+Insert 268413231
+ExtractMax
+Insert 556023357
+Insert 977175743
+Insert 149437993
+ExtractMax
+ExtractMax
+Insert 874386329
+Insert 270285108
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 266154151
+Insert 938508411
+Insert 104193331
+Insert 520447049
+ExtractMax
+Insert 213857137
+ExtractMax
+Insert 446054546
+Insert 768614664
+ExtractMax
+ExtractMax
+Insert 134532913
+ExtractMax
+Insert 186663381
+Insert 778972800
+ExtractMax
+ExtractMax
+Insert 353352494
+ExtractMax
+Insert 405718048
+Insert 911140540
+ExtractMax
+Insert 832527906
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 198125726
+ExtractMax
+Insert 644268787
+Insert 340524455
+Insert 123814265
+ExtractMax
+ExtractMax
+Insert 717431991
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 52970942
+Insert 964172518
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+ExtractMax
+Insert 273888829
+Insert 194484539
+Insert 20612498
+ExtractMax
+Insert 651307070
+Insert 324720154
+ExtractMax
+ExtractMax
+Insert 68155305
+ExtractMax
+ExtractMax
+Insert 93085137
+Insert 979798551
+ExtractMax
+ExtractMax
+Insert 487408443
+Insert 947233210
+Insert 10634414
+Insert 913230682
+Insert 800140110
+Insert 83920561
