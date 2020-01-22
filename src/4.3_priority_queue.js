@@ -213,6 +213,45 @@ class PriorityQueueMax extends PriorityQueueMin {
     }
 }
 
+function run(input) {
+    const strings = input.split('\n'),
+        commandsNumber = parseInt(strings[0]);
+
+    let queue = new PriorityQueueMax(),
+        result = '';
+
+    for (let i = 1; i <= commandsNumber; i++) {
+        if (strings[i] === undefined || strings[i].trim().length === 0) {
+            break;
+        }
+
+        let [command, value] = strings[i].split(' ');
+
+        if (command === 'Insert') {
+            queue.insert(parseInt(value));
+            continue;
+        } else if (command === 'ExtractMax') {
+            result += queue.extractMax().toString() + "\n";
+            continue;
+        }
+
+        throw new Error('Unknown command: ' + command);
+    }
+
+    return result;
+}
+
+/**
+ * Tests section.
+ * Add argument 'test' for start testing.
+ * Add test names as arguments to run only specific tests.
+ */
+let args = process.argv.slice(2);
+if (args[0] === 'test') {
+    const test = require('./test');
+    test.run(__filename, input => run(input), args.slice(1));
+}
+
 /**
  * IO section.
  * Expected input example:
@@ -233,26 +272,5 @@ process.stdin.on('readable', function () {
     }
 });
 process.stdin.on('end', function () {
-    const strings = input.split('\n'),
-        commandsNumber = parseInt(strings[0]);
-
-    let queue = new PriorityQueueMax();
-
-    for (let i = 1; i <= commandsNumber; i++) {
-        if (strings[i].trim().length === 0) {
-            break;
-        }
-
-        let [command, value] = strings[i].split(' ');
-
-        if (command === 'Insert') {
-            queue.insert(parseInt(value));
-            continue;
-        } else if (command === 'ExtractMax') {
-            process.stdout.write(queue.extractMax().toString() + "\n");
-            continue;
-        }
-
-        throw new Error('Unknown command: ' + command);
-    }
+    process.stdout.write(run(input));
 });
