@@ -1,5 +1,5 @@
 /**
- * @link https://stepik.org/lesson/13259/step/5?unit=3444
+ * @link https://stepik.org/lesson/13259/step/5
  */
 
 /**

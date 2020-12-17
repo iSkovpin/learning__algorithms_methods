@@ -1,6 +1,5 @@
-/*
- * Task: binary search.
- * See: https://stepik.org/lesson/13246/step/4?unit=3431
+/**
+ * @link https://stepik.org/lesson/13246/step/4
  */
 
 /**

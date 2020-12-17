@@ -1,4 +1,8 @@
 /**
+ * @link https://stepik.org/lesson/13240/step/8
+ */
+
+/**
  * Priority queue based on a min heap (min value in the root of the heap tree).
  * Args in methods: it - iterator (identifier of some element in the heap), p - priority.
  */

@@ -1,3 +1,7 @@
+/**
+ * @link https://stepik.org/lesson/13239/step/6
+ */
+
 /*
  * Notice: some of this code can be redundant because a part of this code is from the previous task.
  */

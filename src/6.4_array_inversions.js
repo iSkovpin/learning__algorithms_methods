@@ -1,3 +1,7 @@
+/**
+ * @link https://stepik.org/lesson/13248/step/5
+ */
+
 let inversionsCount = 0;
 
 /**
