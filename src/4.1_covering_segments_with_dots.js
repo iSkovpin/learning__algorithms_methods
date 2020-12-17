@@ -1,3 +1,7 @@
+/**
+ * @link https://stepik.org/lesson/13238/step/9
+ */
+
 /*
  * Task: cover a set of segments with a minimal amount of dots. Points must be placed on every segment.
  * Use a greedy algorithm.

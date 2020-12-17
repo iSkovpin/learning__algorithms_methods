@@ -1,3 +1,7 @@
+/**
+ * @link https://stepik.org/lesson/13238/step/10
+ */
+
 /*
  * Task: find the maximum cost of things which can be placed into a backpack. Things can be cut.
  * Use a greedy algorithm.

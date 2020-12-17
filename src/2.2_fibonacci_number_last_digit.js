@@ -1,4 +1,8 @@
 /**
+ * @link https://stepik.org/lesson/13228/step/7
+ */
+
+/**
  * Calculate Fibonacci number last digit by serial number of Fibonacci number.
  * @param {number} n
  * @returns {number}

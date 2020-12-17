@@ -1,4 +1,8 @@
 /**
+ * @link https://stepik.org/lesson/13228/step/7
+ */
+
+/**
  * Calculate Fibonacci number by its serial number.
  * @param {number} n
  * @returns {number}

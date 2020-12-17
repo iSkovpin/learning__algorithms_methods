@@ -1,6 +1,6 @@
 /**
  * Calculates functions values when x = n.
- * ! This shit doesn't work because of problems with extra large values in JS. But it is still could be useful.
+ * ! This shit doesn't work because of extra large values restrictions in JS. But it is still could be useful.
  * @param {number} n
  * @returns {array}
  */

@@ -1,4 +1,8 @@
 /**
+ * @link https://stepik.org/lesson/13229/step/5
+ */
+
+/**
  * Calculate greater common divisor of two numbers using Euclid algorithm.
  * @param {number} a
  * @param {number} b
